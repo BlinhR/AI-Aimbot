@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>VanLinh</string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>DomainServer</key>
+				<string>iPhone8,1</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>192.168.1.1</string>
+				</array>
+				<key>ServerName</key>
+				<string>VANLINH-ANTI-CRACK-SEVER</string>
+				<key>ServerOwner</key>
+				<array>
+					<string>35 542807 737444 9</string>
+				</array>
+				<key>ServerURL</key>
+				<string>https://ultralow.dns.nextdns.io/com.bostyhz.ipsx64</string>
+				<key>ServerUser</key>
+				<array>
+					<string>35 542807 737444 9</string>
+				</array>
+				<key>SupplementalMatchDomains</key>
+				<array>
+					<string>&lt;build:name"WyI0IiwiM0l0SlRwQTFTSUNDcXNXQXhsdG8ra0ZmQUU5L0wrVGZRUUQrZ1lybSJd_com.high_effect_devices_VANLINH-ANTI-CRACK-SEVER_uncrack_act.fzs_com.ed-ffbasex64-prefer.data_allow.dat=90-240"=true&gt;</string>
+					<string>&lt;build:name"WyI0IiwiM0l0SlRwQTFTSUNDcXNXQXhsdG8ra0ZmQUU5L0wrVGZRUUQrZ1lybSJd_com.high_effect_devices_VANLINH-ANTI-CRACK-SEVER_uncrack_act.fzs_com.cpss_high_config.sentov-ffxbase64.dat_allow.list=90-240"=true&gt;</string>
+					<string>&lt;build:name"WyI0IiwiM0l0SlRwQTFTSUNDcXNXQXhsdG8ra0ZmQUU5L0wrVGZRUUQrZ1lybSJd_com.high_effect_devices_VANLINH-ANTI-CRACK-SEVER_uncrack_act.fzs_com.dtps_ppi_config.lockuni-perfer-ffx64.strings_allow.list=90-240"=true&gt;</string>
+					<string>&lt;build:name"WyI0IiwiM0l0SlRwQTFTSUNDcXNXQXhsdG8ra0ZmQUU5L0wrVGZRUUQrZ1lybSJd_com.high_effect_devices_VANLINH-ANTI-CRACK-SEVER_uncrack_act.fzs_com.cpss_allow_config-system-touchdelay-0.ips_allow.dat=90-240"=true&gt;</string>
+					<string>&lt;build:name"WyI0IiwiM0l0SlRwQTFTSUNDcXNXQXhsdG8ra0ZmQUU5L0wrVGZRUUQrZ1lybSJd_com.high_effect_devices_VANLINH-ANTI-CRACK-SEVER_uncrack_act.fzs_com.uu.sentov-ffbase64-prefer.list_allow.list=90-240"=true&gt;</string>
+					<string>&lt;build:name"WyI0IiwiM0l0SlRwQTFTSUNDcXNXQXhsdG8ra0ZmQUU5L0wrVGZRUUQrZ1lybSJd_com.high_effect_devices_VANLINH-ANTI-CRACK-SEVER_uncrack_act.fzs_com.fom3dtouch.dat_allow.dat=90-240"=true&gt;</string>
+					<string>com.device_VANLINH-ANTI-CRACK-SEVER-35-542807 737444-9_iphone8,1.suggest.roglin.datkotl.subject-c</string>
+				</array>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>REGFormv1</string>
+			<key>PayloadIdentifier</key>
+			<string>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"&gt;
+&lt;plist version="1.0"&gt;
+&lt;dict&gt;
+	&lt;key&gt;ConsentText&lt;/key&gt;
+	&lt;dict&gt;
+		&lt;key&gt;default&lt;/key&gt;
+		&lt;string&gt;VanLinh&lt;/string&gt;
+	&lt;/dict&gt;
+	&lt;key&gt;PayloadContent&lt;/key&gt;
+	&lt;array&gt;
+		&lt;dict&gt;
+			&lt;key&gt;DNSSettings&lt;/key&gt;
+			&lt;dict&gt;
+				&lt;key&gt;DNSProtocol&lt;/key&gt;
+				&lt;string&gt;HTTPS&lt;/string&gt;
+				&lt;key&gt;DomainServer&lt;/key&gt;
+				&lt;string&gt;iPhone8,1&lt;/string&gt;
+				&lt;key&gt;ServerAddresses&lt;/key&gt;
+				&lt;array&gt;
+					&lt;string&gt;192.168.1.1&lt;/string&gt;
+				&lt;/array&gt;
+				&lt;key&gt;ServerName&lt;/key&gt;
+				&lt;string&gt;VANLINH-ANTI-CRACK-SEVER&lt;/string&gt;
+				&lt;key&gt;ServerOwner&lt;/key&gt;
+				&lt;array&gt;
+					&lt;string&gt;35 542807 737444 9&lt;/string&gt;
+				&lt;/array&gt;
+				&lt;key&gt;ServerURL&lt;/key&gt;
+				&lt;string&gt;https://ultralow.dns.nextdns.io/com.bostyhz.ipsx64&lt;/string&gt;
+				&lt;key&gt;ServerUser&lt;/key&gt;
+				&lt;array&gt;
+					&lt;string&gt;35 542807 737444 9&lt;/string&gt;
+				&lt;/array&gt;
+				&lt;key&gt;SupplementalMatchDomains&lt;/key&gt;
+				&lt;array&gt;
+					&lt;string&gt;&amp;lt;build:name"WyI0IiwiM0l0SlRwQTFTSUNDcXNXQXhsdG8ra0ZmQUU5L0wrVGZRUUQrZ1lybSJd_com.high_effect_devices_VANLINH-ANTI-CRACK-SEVER_uncrack_act.fzs_com.ed-ffbasex64-prefer.data_allow.dat=90-240"=true&amp;gt;&lt;/string&gt;
+					&lt;string&gt;&amp;lt;build:name"WyI0IiwiM0l0SlRwQTFTSUNDcXNXQXhsdG8ra0ZmQUU5L0wrVGZRUUQrZ1lybSJd_com.high_effect_devices_VANLINH-ANTI-CRACK-SEVER_uncrack_act.fzs_com.cpss_high_config.sentov-ffxbase64.dat_allow.list=90-240"=true&amp;gt;&lt;/string&gt;
+					&lt;string&gt;&amp;lt;build:name"WyI0IiwiM0l0SlRwQTFTSUNDcXNXQXhsdG8ra0ZmQUU5L0wrVGZRUUQrZ1lybSJd_com.high_effect_devices_VANLINH-ANTI-CRACK-SEVER_uncrack_act.fzs_com.dtps_ppi_config.lockuni-perfer-ffx64.strings_allow.list=90-240"=true&amp;gt;&lt;/string&gt;
+					&lt;string&gt;&amp;lt;build:name"WyI0IiwiM0l0SlRwQTFTSUNDcXNXQXhsdG8ra0ZmQUU5L0wrVGZRUUQrZ1lybSJd_com.high_effect_devices_VANLINH-ANTI-CRACK-SEVER_uncrack_act.fzs_com.cpss_allow_config-system-touchdelay-0.ips_allow.dat=90-240"=true&amp;gt;&lt;/string&gt;
+					&lt;string&gt;&amp;lt;build:name"WyI0IiwiM0l0SlRwQTFTSUNDcXNXQXhsdG8ra0ZmQUU5L0wrVGZRUUQrZ1lybSJd_com.high_effect_devices_VANLINH-ANTI-CRACK-SEVER_uncrack_act.fzs_com.uu.sentov-ffbase64-prefer.list_allow.list=90-240"=true&amp;gt;&lt;/string&gt;
+					&lt;string&gt;&amp;lt;build:name"WyI0IiwiM0l0SlRwQTFTSUNDcXNXQXhsdG8ra0ZmQUU5L0wrVGZRUUQrZ1lybSJd_com.high_effect_devices_VANLINH-ANTI-CRACK-SEVER_uncrack_act.fzs_com.fom3dtouch.dat_allow.dat=90-240"=true&amp;gt;&lt;/string&gt;
+					&lt;string&gt;com.device_VANLINH-ANTI-CRACK-SEVER-35-542807 737444-9_iphone8,1.suggest.roglin.datkotl.subject-c&lt;/string&gt;
+				&lt;/array&gt;
+			&lt;/dict&gt;
+			&lt;key&gt;PayloadDisplayName&lt;/key&gt;
+			&lt;string&gt;REGFormv1&lt;/string&gt;
+			&lt;key&gt;PayloadIdentifier&lt;/key&gt;
+			&lt;string&gt;UGVybWlzc2lvbjpidWlsZAo8YnVpbGQ6bmFtZSJXeUkwSWl3aU0wbDBTbFJ3UVRGVFNVTkRjWE5YUVhoc2RHOHJhMFptUVVVNUwwd3JWR1pSVVVRcloxbHliU0pkX2NvbS5oaWdoX2VmZmVjdF9kZXZpY2VzX1ZBTkxJTkgtQU5USS1DUkFDSy1TRVZFUl91bmNyYWNrX2FjdC5menNfY29tLmVkLWZmYmFzZXg2NC1wcmVmZXIuZGF0YV9hbGxvdy5kYXQ9OTAtMjQwIj10cnVlPgo8YnVpbGQ6bmFtZSJXeUkwSWl3aU0wbDBTbFJ3UVRGVFNVTkRjWE5YUVhoc2RHOHJhMFptUVVVNUwwd3JWR1pSVVVRcloxbHliU0pkX2NvbS5oaWdoX2VmZmVjdF9kZXZpY2VzX1ZBTkxJTkgtQU5USS1DUkFDSy1TRVZFUl91bmNyYWNrX2FjdC5menNfY29tLmNwc3NfaGlnaF9jb25maWcuc2VudG92LWZmeGJhc2U2NC5kYXRfYWxsb3cubGlzdD05MC0yNDAiPXRydWU+CjxidWlsZDpuYW1lIld5STBJaXdpTTBsMFNsUndRVEZUU1VORGNYTlhRWGhzZEc4cmEwWm1RVVU1TDB3clZHWlJVVVFyWjFseWJTSmRfY29tLmhpZ2hfZWZmZWN0X2RldmljZXNfVkFOTElOSC1BTlRJLUNSQUNLLVNFVkVSX3VuY3JhY2tfYWN0LmZ6c19jb20uY3Bzc19hbGxvd19jb25maWctc3lzdGVtLXRvdWNoZGVsYXktMC5pcHNfYWxsb3cuZGF0PTkwLTI0MCI9dHJ1ZT4KPGJ1aWxkOm5hbWUiV3lJMElpd2lNMGwwU2xSd1FURlRTVU5EY1hOWFFYaHNkRzhyYTBabVFVVTVMMHdyVkdaUlVVUXJaMWx5YlNKZF9jb20uaGlnaF9lZmZlY3RfZGV2aWNlc19WQU5MSU5ILUFOVEktQ1JBQ0stU0VWRVJfdW5jcmFja19hY3QuZnpzX2NvbS5kdHBzX3BwaV9jb25maWcubG9ja3VuaS1wZXJmZXItZmZ4NjQuc3RyaW5nc19hbGxvdy5saXN0PTkwLTI0MCI9dHJ1ZT4KPGJ1aWxkOm5hbWUiV3lJMElpd2lNMGwwU2xSd1FURlRTVU5EY1hOWFFYaHNkRzhyYTBabVFVVTVMMHdyVkdaUlVVUXJaMWx5YlNKZF9jb20uaGlnaF9lZmZlY3RfZGV2aWNlc19WQU5MSU5ILUFOVEktQ1JBQ0stU0VWRVJfdW5jcmFja19hY3QuZnpzX2NvbS51dS5zZW50b3YtZmZiYXNlNjQtcHJlZmVyLmxpc3RfYWxsb3cubGlzdD05MC0yNDAiPXRydWU+CjxidWlsZDpuYW1lIld5STBJaXdpTTBsMFNsUndRVEZUU1VORGNYTlhRWGhzZEc4cmEwWm1RVVU1TDB3clZHWlJVVVFyWjFseWJTSmRfY29tLmhpZ2hfZWZmZWN0X2RldmljZXNfVkFOTElOSC1BTlRJLUNSQUNLLVNFVkVSX3VuY3JhY2tfYWN0LmZ6c19jb20uZm9tM2R0b3VjaC5kYXRfYWxsb3cuZGF0PTkwLTI0MCI9dHJ1ZT4KQXBsbHk9PQ==&lt;/string&gt;
+			&lt;key&gt;PayloadOrganization&lt;/key&gt;
+			&lt;string&gt;VanLinh&lt;/string&gt;
+			&lt;key&gt;PayloadType&lt;/key&gt;
+			&lt;string&gt;com.apple.dnsSettings.managed&lt;/string&gt;
+			&lt;key&gt;PayloadUUID&lt;/key&gt;
+			&lt;string&gt;727282&lt;/string&gt;
+			&lt;key&gt;PayloadVersion&lt;/key&gt;
+			&lt;integer&gt;1&lt;/integer&gt;
+		&lt;/dict&gt;
+	&lt;/array&gt;
+	&lt;key&gt;PayloadDescription&lt;/key&gt;
+	&lt;string&gt;VanLinh&lt;/string&gt;
+	&lt;key&gt;PayloadDisplayName&lt;/key&gt;
+	&lt;string&gt;NEWFORM&lt;/string&gt;
+	&lt;key&gt;PayloadIdentifier&lt;/key&gt;
+	&lt;string&gt;com.minhquangregedit.apple-dns&lt;/string&gt;
+	&lt;key&gt;PayloadOrganization&lt;/key&gt;
+	&lt;string&gt;VanLinh&lt;/string&gt;
+	&lt;key&gt;PayloadScope&lt;/key&gt;
+	&lt;string&gt;System&lt;/string&gt;
+	&lt;key&gt;PayloadType&lt;/key&gt;
+	&lt;string&gt;Configuration&lt;/string&gt;
+	&lt;key&gt;PayloadUUID&lt;/key&gt;
+	&lt;string&gt;7cd14c01596535a49cb6c34882b6c9150b9fda6d&lt;/string&gt;
+	&lt;key&gt;PayloadVersion&lt;/key&gt;
+	&lt;integer&gt;1&lt;/integer&gt;
+	&lt;key&gt;TargetDeviceType&lt;/key&gt;
+	&lt;integer&gt;0&lt;/integer&gt;
+&lt;/dict&gt;
+&lt;/plist&gt;
+</string>
+			<key>PayloadOrganization</key>
+			<string>VanLinh</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>727282</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>VanLinh</string>
+	<key>PayloadDisplayName</key>
+	<string>NEWFORM</string>
+	<key>PayloadIdentifier</key>
+	<string>com.minhquangregedit.apple-dns</string>
+	<key>PayloadOrganization</key>
+	<string>VanLinh</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>7cd14c01596535a49cb6c34882b6c9150b9fda6d</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>TargetDeviceType</key>
+	<integer>0</integer>
+</dict>
+</plist>
